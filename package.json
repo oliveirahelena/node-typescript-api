@@ -1,0 +1,13 @@
+{
+    "name": "node-typescript-api",
+    "version": "1.0.0",
+    "description": "Typescript Node.js API",
+    "main": "index.js",
+    "keywords": [
+        "nodejs",
+        "typescript",
+        "api"
+    ],
+    "author": "Helena Oliveira",
+    "license": "MIT"
+}
